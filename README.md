@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @laksby
-- 👀 I’m interested in history, software engineering, game design
-- 
+Hi. I am @laksby
+
+I'm big fan of:
+- Game design
+- History
+- Computer graphics
+- Software engineering
